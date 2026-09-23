@@ -1,0 +1,37 @@
+# 我的直连规则
+
+# 域名后缀
+DOMAIN-SUFFIX,mercury.com
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ocbc.com
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,nicozy2.com
+DOMAIN-SUFFIX,yinghuazy.xyz
+DOMAIN-SUFFIX,ntdm9.com
+DOMAIN-SUFFIX,yhdmjx.com
+DOMAIN-SUFFIX,bvvvvvvv7f.com
+DOMAIN-SUFFIX,ffzy-plays.com
+DOMAIN-SUFFIX,ffzyread1.com
+DOMAIN-SUFFIX,ffzy-online2.com
+DOMAIN-SUFFIX,zcdn27.com
+DOMAIN-SUFFIX,lzdown28.com
+DOMAIN-SUFFIX,ffzy-online5.com
+DOMAIN-SUFFIX,ffzy-online6.com
+DOMAIN-SUFFIX,lzizy.net
+DOMAIN-SUFFIX,lzidw2025.com
+DOMAIN-SUFFIX,downlz5.com
+DOMAIN-SUFFIX,jianying.com
+DOMAIN-SUFFIX,intuit.com
+DOMAIN-SUFFIX,dongchedi.com
+DOMAIN-SUFFIX,lfthirtytwo.com
+DOMAIN-SUFFIX,lzcdn31.com
+DOMAIN-SUFFIX,starryblu.com
+
+# IP
+# IP直连补充列表
+
+IP-CIDR,80.251.220.120/32,no-resolve
+IP-CIDR,38.60.91.46/32,no-resolve
+IP-CIDR,195.246.194.29/32,no-resolve
+IP-CIDR,37.77.84.58/32,no-resolve
