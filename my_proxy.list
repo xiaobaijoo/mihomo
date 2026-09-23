@@ -1,11 +1,11 @@
 # Futu / moomoo
 
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,moomoo.com
-DOMAIN-SUFFIX,futunn.com
-DOMAIN-SUFFIX,futuholdings.com
-DOMAIN-SUFFIX,futuhk.com
-DOMAIN-SUFFIX,futufin.com
-DOMAIN-SUFFIX,moomoobull.com
-DOMAIN-SUFFIX,futustatic.com
++,googleapis.cn
++,xn--ngstr-lra8j.com
++,moomoo.com
++,futunn.com
++,futuholdings.com
++,futuhk.com
++,futufin.com
++,moomoobull.com
++,futustatic.com
